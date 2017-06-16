@@ -1,0 +1,66 @@
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\bin\Debug\UI design assignment 3.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\bin\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\bin\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\obj\Debug\UI design assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\obj\Debug\UI_design_assignment_3.Form1.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\obj\Debug\UI_design_assignment_3.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\obj\Debug\UI design assignment 3.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\obj\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3\obj\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\bin\Debug\UI design assignment 3.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\obj\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\obj\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\bin\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\bin\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\obj\Debug\UI design assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\obj\Debug\UI_design_assignment_3.Form1.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\obj\Debug\UI_design_assignment_3.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\PROG8150-1 User Interface Design (Filion Jean)\UI design assignment 3 back up\obj\Debug\UI design assignment 3.csproj.GenerateResource.Cache
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe.config
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.exe
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.pdb
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.pdb
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csprojResolveAssemblyReference.cache
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Form1.resources
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Properties.Resources.resources
+D:\Users\alessandro.santos\Downloads\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csproj.GenerateResource.Cache
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe.config
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.exe
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.pdb
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.pdb
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csprojResolveAssemblyReference.cache
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Form1.resources
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Properties.Resources.resources
+D:\Users\alessandro.santos\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csproj.GenerateResource.Cache
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe.config
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.exe
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.pdb
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.pdb
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Form1.resources
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Properties.Resources.resources
+C:\Users\Odniprovskyi7708\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Form1.resources
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\obj\Debug\UI_design_assignment_3.Properties.Resources.resources
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe.config
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\bin\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\UI design assignment 3 back up 0\obj\Debug\UI design assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\bin\Debug\UI design assignment 3.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\obj\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\obj\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\bin\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\bin\Debug\UI design assignment 3.pdb
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\obj\Debug\UI design assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\obj\Debug\UI_design_assignment_3.Form1.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\obj\Debug\UI_design_assignment_3.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\UI design assignment 3 SCADA\obj\Debug\UI design assignment 3.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design SCADA\bin\Debug\UI design assignment 3.exe.config
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design SCADA\obj\Debug\UI design assignment 3.exe
+C:\Users\Алексей\Desktop\Canada\conestoga\studying\1 semester\PROG8150-1 User Interface Design (Filion Jean)\assignments\for git hub\UI design SCADA\obj\Debug\UI design assignment 3.pdb
